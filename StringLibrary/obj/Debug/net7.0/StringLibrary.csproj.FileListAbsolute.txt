@@ -1,0 +1,12 @@
+C:\Users\student\Documents\Semester5\Devops\Lab5\ClassLibraryProjects\StringLibrary\bin\Debug\net7.0\StringLibrary.deps.json
+C:\Users\student\Documents\Semester5\Devops\Lab5\ClassLibraryProjects\StringLibrary\bin\Debug\net7.0\StringLibrary.dll
+C:\Users\student\Documents\Semester5\Devops\Lab5\ClassLibraryProjects\StringLibrary\bin\Debug\net7.0\StringLibrary.pdb
+C:\Users\student\Documents\Semester5\Devops\Lab5\ClassLibraryProjects\StringLibrary\obj\Debug\net7.0\StringLibrary.csproj.AssemblyReference.cache
+C:\Users\student\Documents\Semester5\Devops\Lab5\ClassLibraryProjects\StringLibrary\obj\Debug\net7.0\StringLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Documents\Semester5\Devops\Lab5\ClassLibraryProjects\StringLibrary\obj\Debug\net7.0\StringLibrary.AssemblyInfoInputs.cache
+C:\Users\student\Documents\Semester5\Devops\Lab5\ClassLibraryProjects\StringLibrary\obj\Debug\net7.0\StringLibrary.AssemblyInfo.cs
+C:\Users\student\Documents\Semester5\Devops\Lab5\ClassLibraryProjects\StringLibrary\obj\Debug\net7.0\StringLibrary.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\Semester5\Devops\Lab5\ClassLibraryProjects\StringLibrary\obj\Debug\net7.0\StringLibrary.dll
+C:\Users\student\Documents\Semester5\Devops\Lab5\ClassLibraryProjects\StringLibrary\obj\Debug\net7.0\refint\StringLibrary.dll
+C:\Users\student\Documents\Semester5\Devops\Lab5\ClassLibraryProjects\StringLibrary\obj\Debug\net7.0\StringLibrary.pdb
+C:\Users\student\Documents\Semester5\Devops\Lab5\ClassLibraryProjects\StringLibrary\obj\Debug\net7.0\ref\StringLibrary.dll
